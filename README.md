@@ -2,7 +2,7 @@
 # Seja bem vindo
 
 
-### Ola me chamo Igor tenho 17 anos,sou estudante da instituição Sesi e faço curso tecnico de Desenvolvimento de Sistemas no Senai
+### Ola me chamo Igor tenho 17 anos, sou estudante da instituição Sesi e faço curso tecnico de Desenvolvimento de Sistemas no Senai
 
 ### Informações pessoais
 
