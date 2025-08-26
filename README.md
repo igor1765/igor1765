@@ -1,4 +1,4 @@
-####👋 Seja bem-vindo ao meu Perfil
+#### 👋 Seja bem-vindo ao meu Perfil
 
 ## 🚀 Sobre mim
 Olá! Me chamo **Igor**, tenho **17 anos**, sou estudante no **SESI** e atualmente faço o curso técnico em **Desenvolvimento de Sistemas** pelo **SENAI**.  
