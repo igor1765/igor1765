@@ -6,9 +6,8 @@ Sou apaixonado por **tecnologia**, **futebol**, **carros** e também dedico part
 
 ## 🛠️ Habilidades
 - **Frontend:** HTML, CSS  
-- **Backend:** JavaScript (Node.js, Express)  
-- Em constante aprendizado e sempre buscando evoluir minhas práticas em desenvolvimento web.
-
+- **Backend:** JavaScript (Node.js, Express)
+- Banco de dados
 ## 📫 Contato
 - ✉️ E-mail: Igor.gandolfi@aluno.senai.br
 - GitHub: https://github.com/igor1765
