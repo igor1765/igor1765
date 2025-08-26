@@ -1,29 +1,18 @@
+# 👋 Seja bem-vindo ao meu GitHub!
 
-# Seja bem vindo
+## 🚀 Sobre mim
+Olá! Me chamo **Igor**, tenho **17 anos**, sou estudante no **SESI** e atualmente faço o curso técnico em **Desenvolvimento de Sistemas** pelo **SENAI**.  
+Sou apaixonado por **tecnologia**, **futebol**, **carros** e também dedico parte do meu tempo à **academia**.
 
+## 🛠️ Habilidades
+- **Frontend:** HTML, CSS  
+- **Backend:** JavaScript (Node.js, Express)  
+- Em constante aprendizado e sempre buscando evoluir minhas práticas em desenvolvimento web.
 
-### Ola me chamo Igor tenho 17 anos, sou estudante da instituição Sesi e faço curso tecnico de Desenvolvimento de Sistemas no Senai
-
-### Informações pessoais
-
-- Apaixonado por futebol
-
- - carros
-
-- Academia
-
-### Habilidades
-- Css
-
-- Html
-
-- JavaScript (Node.js, Express)
-
-### Contato
-
-- Gmail: Igor.gandolfi@aluno.senai.br
-
+## 📫 Contato
+- ✉️ E-mail: Igor.gandolfi@aluno.senai.br
 - GitHub: https://github.com/igor1765
 - 
 - Jesus é Rei
+
 
